@@ -1,4 +1,4 @@
-# 🐳 Docker Mastery - Complete DevOps Study Repository
+# 🐳 Docker Mastery - Complete DevOps Study  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Docker](https://img.shields.io/badge/Docker-20.10%2B-blue)](https://docker.com)
