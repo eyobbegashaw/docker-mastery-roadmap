@@ -45,7 +45,8 @@ docker-mastery/
 
 ### Clone and Explore
 ```bash
-git clone https://github.com/yourusername/docker-mastery.git
+git clone https://github.com/eyobbegashaw/docker-mastery-roadmap
+.git
 cd docker-mastery
 
 # Start with fundamentals
